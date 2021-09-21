@@ -36,7 +36,7 @@ class DashboardFragment : Fragment() {
         })
         return root
     }
-
+////test this
     override fun onDestroyView() {
         super.onDestroyView()
         _binding = null

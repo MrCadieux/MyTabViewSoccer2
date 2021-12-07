@@ -2,6 +2,6 @@
     <string name="app_name">MyTabViewSoccer</string>
     <string name="title_home">Practice</string>
     <string name="title_dashboard">Games</string>
-    <string name="title_notifications">Resources</string>
     <string name="title_profile">Profile</string>
+    <string name="title_notifications">Resources</string>
 </resources>
